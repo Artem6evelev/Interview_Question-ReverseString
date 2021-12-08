@@ -15,3 +15,4 @@ Constraints:
 1 <= s.length <= 105
 s[i] is a printable ascii character.
 
+<img width="907" alt="Screen Shot 2021-12-08 at 9 10 57" src="https://user-images.githubusercontent.com/74210822/145164606-11a8ffa0-8fb8-4699-9923-4a16bc33753a.png">
